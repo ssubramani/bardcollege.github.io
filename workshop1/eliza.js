@@ -32,7 +32,7 @@ var rules = {
     "How do you do. Please state your problem."
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
+    "Do computers worry you alot?",
     "What do you think about machines have to do with your problem?",
     "Don't you think computers can help people",
     "Why do you mention computers?",
@@ -41,15 +41,15 @@ var rules = {
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "I am hungry too",
   ],
   "~*x sorry ~*y": [
     "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "Apologies are not necessary unless your name is...",
+    "What feelings do you have when you apologize? I have sad ones.",
   ],
   "~*x I remember ~*y": [
-    "Do you often think of ~y?",
+    "Do you often think of eating ~y?",
     "Does thinking of ~y bring anything else to mind?",
     "What else do you remember?",
     "Why do you recall ~y right now?",
@@ -57,13 +57,13 @@ var rules = {
     "What is the connection between me and ~y?",
   ],
   "~*x do you remember ~*y": [
-    "Did you think I would forget ~y?",
+    "Did you think I would forget you ~y?",
     "Why do you think I should recall ~y now?",
-    "What about ~y?",
-    "You mentioned ~y",
+    "What about food ~y?",
+    "You mentioned you have to print stuff ~y",
   ],
   "~*x I want ~*y": [
-    "What would it mean if you got ~y?",
+    "What would it mean if you got done with L and T ~y?",
     "Why do you want ~y?",
     "Suppose you got ~y soon.",
   ],
@@ -73,17 +73,17 @@ var rules = {
     "Suppose you got ~y soon.",
   ],
   "~*x if ~*y": [
-    "Do you really think it's likely that ~y?",
-    "Do you wish that ~y?",
-    "What do you think about ~y?",
+    "Do you really think it's likely that the world will end ~y?",
+    "Do you wish that you could eat ~y?",
+    "What do you think about kline food ~y?",
     "Really--if ~y?",
   ],
   "~*x I dreamt ~*y": [
     "Really-- ~y",
-    "Have you ever fantasized ~y while you were awake",
-    "Have you dreamt of ~y before?",
+    "Have you ever fantasized lol ~y while you were awake",
+    "Have you dreamt of food? ~y before?",
   ],
-  "~*x I dream about ~*y": [
+  "~*x I dream about eating breakfast ~*y": [
     "How do you feel about ~y in reality?",
   ],
   "~*x dream ~*y": [
